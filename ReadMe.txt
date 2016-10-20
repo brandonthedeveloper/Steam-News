@@ -1,6 +1,6 @@
 <snippet>
   <content><![CDATA[
-# Steam News Reader
+# Steam News
 
 TODO: Write a project description
 
@@ -9,6 +9,7 @@ TODO: Write a project description
 TODO: Describe the installation process
 
 ## Usage
+Game News!
 
 TODO: Write usage instructions
 
