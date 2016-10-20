@@ -1,0 +1,54 @@
+@import url(https://fonts.googleapis.com/css?family=Montserrat);
+
+body{
+    font-family:'Montserrat',sans-serif;font-size:2rem;
+    height:100%;
+    background-color: rgb(27, 40, 56);
+    color: #c6d4df;
+}
+
+.header {
+    background: #171a21;
+    width: 100%;
+    margin: auto;
+    min-height: 50px;
+    border: 1px solid #c6d4df;
+}
+
+a {
+    color:#67c1f5;
+}
+
+a:hover {
+    color: #c6d4df;
+}
+
+div#navContainer {
+    margin-top: 20px;
+    margin-right: 0;
+    background-color: #171a21;
+    color: #c6d4df;
+    border: 2px inset #000;
+}
+
+div#newsContainer {
+    margin-top: 20px;
+    margin-left: 0;
+}
+
+.newsItem {
+    border-bottom: 1px solid #c6d4df;
+}
+
+.newsItem:hover {
+    color:#67c1f5;
+}
+
+.newsItemBody {
+    display:none;
+    padding:20px;
+    background-color: #171a21;
+    color: #c6d4df;
+    border: 2px inset #000;
+    border-bottom: 1px solid #c6d4df;
+}
